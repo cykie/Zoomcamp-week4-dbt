@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: staging
+    database: zmcp-413216
+    schema: ny_taxi
+
+    tables:
+      - name: green_taxirides
