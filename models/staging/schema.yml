@@ -11,7 +11,7 @@ sources:
       - name: yellow_taxirides
 
 models:
-    - name: green_taxirides
+    - name: stg_greentaxi_rides
       description: >
         Trip made by green taxis, also known as boro taxis and street-hail liveries.
         Green taxis may respond to street hails,but only in the areas indicated in green on the
